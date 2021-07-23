@@ -24,6 +24,15 @@ reference
 5/5/19
 22:45
 
+Example Output:
+
+8/30/21
+The new series title, Pt. 1
+The new series title
+Lance Quinn
+reference
+5/5/19
+
 
 */
 func main() {
