@@ -1,2 +1,2 @@
 # ScheduleFormatter
-Simple Go app to format a schedule exported from excel.  Used as a learning experience for programming in Go.
+Simple app to reformat a radio program schedule to be more copy/paste friendly when uploading radio broadcasts to the podcast page.  After spending hours doing the work manually, I set out to write something to do the work for me.  I could've used Java which I'm more familiar with, but decided to use it as an opportunity to learn about Go.  I'm blown away with how streamlined file I/O is with Go.
